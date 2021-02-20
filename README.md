@@ -8,4 +8,4 @@ As time goes on the objective will be to continously update the site.
 
 Github Site - https://kpetiote.github.io/Portfolio/
 
-Github Repo - https://github.com/KPetiote/Porfolio/
+Github Repo - https://github.com/KPetiote/Portfolio/
